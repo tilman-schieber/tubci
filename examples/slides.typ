@@ -17,7 +17,7 @@
 
   #show: later
   *Anwendungspotenzial:* Kontrolle über Licht-Materie-Wechselwirkungen kann zu Fortschritten in Informationsverarbeitung und Sensorik führen. \
-  #sym.arrow.r.long Quantencomputer und hochpräzise Messgeräte
+  $-->$ Quantencomputer und hochpräzise Messgeräte
 
   #show: later
   *Forschungsbedarf:* Viele Fragen zu nichtklassischen Zuständen und deren Interferenzphänomenen sind offen.

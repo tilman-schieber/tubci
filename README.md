@@ -19,6 +19,8 @@ typst compile --root . --font-path fonts examples/brochure.typ
 typst compile --root . --font-path fonts examples/slides.typ
 ```
 
+`make` rebuilds both example PDFs using only the bundled fonts.
+
 To use the package from any project, clone it into the local package
 directory and import it as `@local/tubci:0.1.0`:
 
