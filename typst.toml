@@ -1,0 +1,8 @@
+[package]
+name = "tubci"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["Tilman Schieber"]
+description = "Brochures and slides in the corporate design of TU Berlin."
+compiler = "0.12.0"
+exclude = ["examples/*.pdf", "docs", "*.zip"]

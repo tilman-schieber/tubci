@@ -1,0 +1,4 @@
+*.zip
+# third-party photos, not cleared for publication
+examples/img/campus.jpg
+examples/img/students.jpg
