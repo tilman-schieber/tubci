@@ -9,11 +9,11 @@
   title: [Innovationsmanagement an der Technischen Universität Berlin],
   subtitle: [Studienangebote, Forschung und Campusleben im Überblick],
   info: [Informationen für Studieninteressierte],
-  picture: image("img/title.jpg"),
+  picture: image("img/cover.jpg"),
   logos: (partner("img/internationales.png"), partner("img/dailabor.png")),
 )
 
-#picture-page(image("img/title.jpg"), badge: [Bewirb dich!])[
+#picture-page(image("img/group.jpg"), badge: [Bewirb dich!])[
   = #sample-headings.at(1)
   == #sample-text(34)
   #columns(2, sample-text(120))

@@ -7,6 +7,7 @@ presentation slides, sharing one set of colours, gradients, logos and fonts.
 ![Slides example](docs/slides.png)
 
 This is an unofficial template, not affiliated with or endorsed by TU Berlin.
+The photos in the examples are AI-generated placeholders.
 
 ## Setup
 
